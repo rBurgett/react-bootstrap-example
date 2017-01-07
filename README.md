@@ -1,2 +1,2 @@
 # react-bootstrap-example
-Repository to accompany a blog post at blog.burgettweb.net
+Repository to accompany a blog post at http://blog.burgettweb.net

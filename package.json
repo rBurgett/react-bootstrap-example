@@ -1,0 +1,38 @@
+{
+  "name": "react-bootstrap-example",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "grunt": "^1.0.1",
+    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "less-plugin-autoprefix": "^1.5.1",
+    "less-plugin-clean-css": "^1.5.1",
+    "react-scripts": "0.8.4"
+  },
+  "dependencies": {
+    "eslint": "^3.13.0",
+    "eslint-plugin-react": "^6.8.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "compile-less": "grunt compile-less",
+    "watch-less": "grunt watch"
+  },
+  "author": "Ryan Burgett<ryan@burgettweb.net>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rBurgett/react-bootstrap-example/issues"
+  },
+  "homepage": "https://github.com/rBurgett/react-bootstrap-example#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rBurgett/react-bootstrap-example.git"
+  }
+}
